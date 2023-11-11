@@ -1,6 +1,7 @@
 ## Steps
 
-Open PowerShell as administrator
+### Open PowerShell as administrator
+$ Start-Process powershell -Verb RunAs
 
 #### Enable WSL
 $ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
