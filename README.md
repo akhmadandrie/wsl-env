@@ -1,6 +1,6 @@
 ## Steps
 
-### Open PowerShell as administrator
+#### Open PowerShell as administrator
 ```
 Start-Process powershell -Verb RunAs
 ```
